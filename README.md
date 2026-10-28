@@ -2,6 +2,8 @@
 
 Front-end of a clothing store, built with React. You can browse products, add them to a cart, and change quantities from a side panel or from a full cart page.
 
+> Built as hands-on practice while following an Alura course.
+
 **Live demo:** [meteora-three-tau.vercel.app](https://meteora-three-tau.vercel.app)
 
 | Home | Cart panel |
