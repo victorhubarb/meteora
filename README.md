@@ -6,7 +6,7 @@
 
 A fashion e-commerce front-end built with React — product catalog, a shopping cart managed with Context API and a reducer, and routing between a home page and a cart page.
 
-**Live demo:** [meteora-three-tau.vercel.app](https://meteora-three-tau.vercel.app)
+**Live demo:** [meteora-three-tau.vercel.app](https://meteora-three-tau.vercel.app) 
 
 ---
 
